@@ -14,7 +14,7 @@
 - **What you'll learn**: How to leverage GitHub Copilot to refactor and modernize existing code.
 - **What you'll build**: A set of improved code snippets that demonstrate modern coding practices.
 - **Prerequisites**:
-  - Skills exercise: [Getting Started with GitHub Copilot](https://github.com/skills/getting-started-with-github-copilot)
+  - Skills exercise: [Getting Started with GitHub Copilot](https://github.com/nosportugal/flai-workshop-github-copilot-100)
   - Familiarity with [VS Code](https://code.visualstudio.com/)
   - Basic coding principles
 
